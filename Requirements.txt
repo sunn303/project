@@ -1,0 +1,10 @@
+tensorflow==2.20.0
+librosa==0.11.0
+numpy
+scipy
+scikit-learn
+soundfile
+pandas
+matplotlib
+seaborn
+joblib
