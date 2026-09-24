@@ -1,6 +1,0 @@
-librosa
-numpy
-scikit-learn
-matplotlib
-soundfile
-jupyter
